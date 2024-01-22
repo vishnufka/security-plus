@@ -1,4 +1,4 @@
-**<u>1.0 Threats, Attacks, and Vulnerabilities (24%)</u>**
+## 1.0 Threats, Attacks, and Vulnerabilities (24%)
 
 **Information Security** - Act of protecting data and information from
 unauthorised access, unlawful modification and disruption, disclosure,
@@ -1591,7 +1591,7 @@ Red and blue teams work together in a feedback loop.
 
 Builds the environment that will be used in the exercise
 
-**<u>2.0 Architecture and Design (21%)</u>**
+## 2.0 Architecture and Design (21%)
 
 **<u>2.1 Explain the importance of security concepts in an enterprise
 environment.</u>**
@@ -3153,7 +3153,7 @@ instead such as Microsoft EFS.
 
 **- Resource vs. security constraints**
 
-**<u>3.0 Implementation (25%)</u>**
+## 3.0 Implementation (25%)
 
 **<u>3.1 Given a scenario, implement secure protocols.</u>**
 
@@ -5074,11 +5074,11 @@ Uses DER encoding, file types are: **.pem .cer .crt .key**
 
 File type **.pfx -** used by Microsoft for release signing
 
-**- Public Key Cryptographic System \#12 (PKCS#12)**
+**- Public Key Cryptographic System \#12 (PKCS\#12)**
 
 File type **.p12**
 
-**- Public Key Cryptographic System \#7 (PKCS#7)**
+**- Public Key Cryptographic System \#7 (PKCS\#7)**
 
 File type **.p7b**
 
@@ -5124,7 +5124,7 @@ Only require the server to be validated.
 Both server and the user need a certificate to be validated - uses more
 processing power so mainly used in high-security environments.
 
-# 4.0 Operations and Incident Response (16%)
+## 4.0 Operations and Incident Response (16%)
 
 **<u>4.1 Given a scenario, use the appropriate tool to assess
 organizational security.</u>**
@@ -5134,7 +5134,7 @@ organizational security.</u>**
 Discovery and documentation of physical and logical connectivity that
 exists in the network.
 
-#### - tracert/traceroute
+**<u> - tracert/traceroute </u>**
 
 **Traces the route.** A network diagnostic command for displaying
 possible routes and measuring transit delays of packets across an IP
@@ -5837,7 +5837,7 @@ of incident.
 **Automated version of a playbook** that leaves clearly defined
 interaction points for human analysis.
 
-## 4.5 Explain the key aspects of digital forensics.
+**4.5 Explain the key aspects of digital forensics.**
 
 **Written procedures** are very important. Ensure that personnel handle
 forensics properly, effectively, and in compliance with required
@@ -5969,7 +5969,7 @@ configuration/network topology -\> Backups
 
 **<u>• E-discovery</u>**
 
-### • Data recovery
+**<u>• Data recovery**</u>
 
 **<u>• Non-repudiation</u>**
 
@@ -5979,7 +5979,7 @@ logs used here
 
 **<u>• Strategic intelligence/counterintelligence</u>**
 
-**<u>5.0 Governance, Risk, and Compliance (14%)</u>**
+## 5.0 Governance, Risk, and Compliance (14%)
 
 **<u>5.1 Compare and contrast various types of controls.</u>**
 
@@ -7047,7 +7047,7 @@ Govern the labeling and handling of data.
 | OTG     | On-The-Go                                                                  |
 | OVAL    | Open Vulnerability and Assessment Language                                 |
 | OWASP   | Open Web Application Security Project                                      |
-| P12     | PKCS \#12                                                                  |
+| P12     | PKCS 12                                                                  |
 | P2P     | Peer-to-Peer                                                               |
 | PaaS    | Platform as a Service                                                      |
 | PAC     | Proxy Auto Configuration                                                   |
